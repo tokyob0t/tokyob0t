@@ -11,7 +11,7 @@ __```[✓]: Completed; [*]: Ongoing; [✗]: Not Yet```__
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[ * ]</span> Java <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/java.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[&#10003;]</span> HTML <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/html.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[ * ]</span> PHP <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/php.svg" height = 20px style="vertical-align: -5px;"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[&#10007;]</span> JavaScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/js.svg" height = 20px style="vertical-align: -5px;"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[ * ]</span> JavaScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/js.svg" height = 20px style="vertical-align: -5px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[&#10007;]</span> TypeScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/tsx.svg" height = 20px style="vertical-align: -5px;"><br>
 
 <p align="center">
