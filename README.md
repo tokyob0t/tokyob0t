@@ -5,7 +5,7 @@
         <img src="https://media1.tenor.com/images/6fd63db5fa41a583888bcc7ff5f1452f/tenor.gif?itemid=13522294" alt="GIF animado" />
       </td>
       <td>
-        <samp>Hi, my name is Kevin and I'm currently studying Civil Engineering in Computer Science. I'm an aspiring programmer who sometimes stays up late working on projects.</samp>
+        <samp>Hi, my name is Kevin and I'm currently studying Civil Engineering in Computer Science. I'm an aspiring programmer who sometimes stays up late working on projects. 🇨🇱</samp>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
           <img src="https://img.shields.io/static/v1?label=&message=Arch+linux&color=161616&style=for-the-badge&logo=arch+linux&logoColor=33b1ff" alt="Arch linux" />
           <img src="https://img.shields.io/static/v1?label=&message=Git&color=161616&style=for-the-badge&logo=git&logoColor=ee5396" alt="Git" />
